@@ -26,6 +26,19 @@ O Fortchat foi desenvolvido para garantir comunicação totalmente privada em re
    java FortchatServer
    ```
 
+  Código elaborado por:
+  <table>
+    <tr>
+    <td align="center">
+      <a href="#" title="Foto de SindiKali">
+        <img src="https://avatars.githubusercontent.com/u/185273479?v=4" width="100px;" alt="Foto de SindiKali"/><br>
+        <sub>
+          <b>SindiKali</b>
+        </sub>
+      </a>
+    </td>
+  </table>
+
 
 
 
