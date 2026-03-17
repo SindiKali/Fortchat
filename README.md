@@ -37,6 +37,14 @@ O Fortchat foi desenvolvido para garantir comunicação totalmente privada em re
         </sub>
       </a>
     </td>
+   <td align="center">
+      <a href="#" title="Foto de SindiKali">
+        <img src="https://avatars.githubusercontent.com/u/100164090?v=4" width="100px;" alt="Foto de Mateus"/><br>
+        <sub>
+          <b>Mateus Cipriano</b>
+        </sub>
+      </a>
+    </td>
   </table>
 
 
